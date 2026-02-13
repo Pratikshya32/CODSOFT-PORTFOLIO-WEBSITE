@@ -4,7 +4,6 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://Pratikshya32.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -127,5 +126,6 @@ git clone https://github.com/Pratikshya32/portfolio-website.git
 ### License
 
 This project is **Free To Use** and does not contains any license.
+
 
 
